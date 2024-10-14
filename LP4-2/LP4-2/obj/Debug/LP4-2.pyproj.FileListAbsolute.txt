@@ -1,0 +1,10 @@
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\obj\Debug\LP4-2.pyprojResolveAssemblyReference.cache
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\LP4-2.exe.config
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\LP4-2.exe
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\LP4-2.dll
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\IronPython.dll
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\IronPython.Modules.dll
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\thompson.g1\Desktop\Programming 1\LP4-2\LP4-2\obj\Debug\LP4-2.exe
