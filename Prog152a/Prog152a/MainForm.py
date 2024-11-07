@@ -75,7 +75,10 @@ class MainForm(Form):
 
 
     def Button1Click(self, sender, e):
-        sum = Sum([3, 9669, 3])
+        sum = 0
+        for i in range(3, 9670, 3):
+            sum += i
+        
         self._label2.Text = str(sum)
 
     def Button2Click(self, sender, e):
