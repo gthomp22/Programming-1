@@ -1,0 +1,10 @@
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\DictionariesAndTuples.exe.config
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\DictionariesAndTuples.exe
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\DictionariesAndTuples.dll
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\IronPython.dll
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\IronPython.Modules.dll
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\Microsoft.Scripting.dll
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\obj\Debug\DictionariesAndTuples.pyprojResolveAssemblyReference.cache
+C:\Users\thompson.g1\Desktop\Programming 1\DictionariesAndTuples\DictionariesAndTuples\obj\Debug\DictionariesAndTuples.exe
