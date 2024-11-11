@@ -103,7 +103,10 @@ class MainForm(Form):
         sum = 0
         for i in range(3, 9670, 3):
             sum += i
+<<<<<<< HEAD
   
+=======
+>>>>>>> 8b7c7e996e927fa036fc4b0393979e9fe3b6aa5b
         
         self._label2.Text = str(sum)
 
@@ -112,6 +115,9 @@ class MainForm(Form):
 
     def Button3Click(self, sender, e):
         Application.Exit()
+<<<<<<< HEAD
 
     def Label2Click(self, sender, e):
         pass
+=======
+>>>>>>> 8b7c7e996e927fa036fc4b0393979e9fe3b6aa5b
