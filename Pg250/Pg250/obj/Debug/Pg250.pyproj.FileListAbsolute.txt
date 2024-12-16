@@ -1,0 +1,12 @@
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\obj\Debug\Pg250.pyprojResolveAssemblyReference.cache
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\obj\Debug\Pg250.MainForm.resources
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\obj\Debug\Pg250.pyproj.GenerateResource.Cache
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\Pg250.exe.config
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\Pg250.exe
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\Pg250.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\IronPython.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\IronPython.Modules.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\Microsoft.Scripting.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Pg250\Pg250\obj\Debug\Pg250.exe
