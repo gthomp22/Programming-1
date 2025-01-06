@@ -1,0 +1,10 @@
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\Hang-man.exe.config
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\Hang-man.exe
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\Hang-man.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\IronPython.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\IronPython.Modules.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\Microsoft.Scripting.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\obj\Debug\Hang-man.pyprojResolveAssemblyReference.cache
+C:\Users\thompson.g1\Desktop\Programming 1\Hang-man\Hang-man\obj\Debug\Hang-man.exe
